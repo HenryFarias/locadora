@@ -1,0 +1,35 @@
+{
+  "name": "locadora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicius Santos",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6",
+    "cors": "^2.8.4",
+    "data-types": "^1.0.8",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "jwt-simple": "^0.5.1",
+    "md5": "^2.2.1",
+    "moment": "^2.20.1",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.3",
+    "npm": "^5.10.0",
+    "path": "^0.12.7",
+    "sequelize": "^4.38.0",
+    "start": "^5.1.0",
+    "to": "^0.2.9",
+    "update": "^0.7.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
